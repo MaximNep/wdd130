@@ -4,7 +4,7 @@ Fonts are separated by a & */
 @import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Extra+Condensed:ital,wght@1,500&family=Sofia+Sans:wght@900&display=swap');
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #396E94  ;
+  --primary-color: #858080 ;
   --secondary-color: #031926 ;
   --accent1-color: #2B3A67;
   --accent2-color: white;
@@ -18,11 +18,11 @@ Fonts are separated by a & */
   --headline-color-on-color: #031926; /* headlines on a colored background */ 
   --paragraph-color-on-white: #031926; /* paragraph text on a white background */ 
   --paragraph-color-on-color: #031926; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #396E94; 
+  --paragraph-background-color: #858080 ; 
   --nav-link-color: #031926;
-  --nav-background-color: #396E94;
+  --nav-background-color: #858080 ;
   --nav-hover-link-color: #031926;
-  --nav-hover-background-color: #396E94;
+  --nav-hover-background-color: #858080 ;
 }
 
 
