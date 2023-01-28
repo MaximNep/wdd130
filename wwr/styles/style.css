@@ -1,0 +1,80 @@
+div {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+img.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+
+ nav {
+    text-align: center;
+ }   
+a {
+    text-align: center;
+    color: #031926
+}
+#hero-msg h1 {
+    text-align: center;
+}
+#hero-msg h4{
+    text-align: center;
+}
+.button-box{
+    text-align: center;
+}
+main section{
+    text-align: center;
+}
+nav a {
+    text-align: center;
+    color: #031926;
+    text-decoration: none;
+}    
+footer p {
+    font-size: 1.2em;
+}  
+footer p a:hover {
+    text-decoration: underline;
+}   
+footer p a:hover {
+    text-decoration: underline;
+}  
+
+
+
+#background {
+    height: 725px;
+}
+body {
+    background-color: white; 
+}
+header {
+    background-color: #858080;
+}
+nav a:hover {
+    background-color: none;
+}
+.book{
+    background-color: white;
+}
+.join{
+    background-color: #858080;
+}
+.book:hover{
+    background-color: none;
+} 
+.join:hover{
+    background-color: #031926;
+}
+#background{
+    background-color: #095256;
+}
+.msg{
+    background-color: #858080;
+}
+footer{
+    background-color: #858080;
+}
